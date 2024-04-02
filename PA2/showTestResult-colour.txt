@@ -1,0 +1,12 @@
+Colour/Contrast - Google: notfound WAVE: notfound SortSite: notfound ASLint: manual - Colour alone is used to convey content
+Colour/Contrast - Google: error WAVE: error SortSite: error_paid ASLint: notfound - Small text does not have a contrast ratio of at least 4.5:1 so does not meet AA
+Colour/Contrast - Google: error WAVE: error SortSite: error_paid ASLint: notfound - Large text does not have a contrast ratio of at least 3:1 so does not meet AA
+Colour/Contrast - Google: error WAVE: error SortSite: error_paid ASLint: notfound - Small text does not have a contrast ratio of at least 7:1 so does not meet AAA
+Colour/Contrast - Google: error WAVE: error SortSite: error_paid ASLint: notfound - Large text does not have a contrast ratio of at least 4.5:1 so does not meet AAA
+Colour/Contrast - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Focus not visible
+Links - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Identifying links by colour alone
+Forms - Google: notfound WAVE: notfound SortSite: notfound ASLint: manual - Errors identified by colour only
+Forms - Google: warning WAVE: error SortSite: error ASLint: error - Errors identified with a poor colour contrast
+HTML - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Inline style adds colour
+
+Total tests matching: 10

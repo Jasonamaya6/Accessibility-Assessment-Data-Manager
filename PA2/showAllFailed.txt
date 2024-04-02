@@ -1,0 +1,53 @@
+Content - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Content identified by location
+Content - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Content is not in correct reading order in source code
+Content - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Content is not organised into well-defined groups or chunks, using headings, lists, and other visual mechanisms
+Layout - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Wide page forces users to scroll horizontally
+Colour/Contrast - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Focus not visible
+Typography - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Inadequate line height used
+Typography - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Long lines of text
+Language - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Text language changed without required change in direction
+Language - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - lang attribute not used to identify change of language
+Language - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Text language is in the wrong direction
+Language - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - html element has lang attribute set to wrong language
+Language - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - lang attribute used to identify change of language, but with wrong language
+Title - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Inappropriate page title
+Headings - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Text formatting used instead of an actual heading
+Lists - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - List not marked up as a list
+Tables - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Table with inconsistent numbers of columns in rows
+Tables - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Table that only has TH elements in it
+Tables - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Table with some empty cells
+Images - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Image has alt and title that are different
+Multimedia - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Flashing content doesn't have warning
+Links - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Links not separated by printable characters
+Links - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Identifying links by colour alone
+Links - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Links with the same text go to different pages
+Links - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Link not clearly identifiable and distinguishable from surrounding text
+Links - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Link to an image, no text alternative
+Forms - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Error messages - no suggestion for corrections given, e.g. required format
+Forms - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Left aligned form labels with too much white space
+Forms - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Field hint not associated with input
+Forms - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Errors are not identified
+Forms - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Form control that changes context without warning
+Navigation - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Inadequately-sized clickable targets found
+Keyboard - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Alert shows for a short time
+Keyboard - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Lightbox - close button doesn't receive focus
+Keyboard - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Focus order in wrong order
+Keyboard - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Concertina items don't get keyboard focus
+Keyboard - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Keyboard trap
+Keyboard - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Dropdown navigation - only the top level items receive focus
+Keyboard - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Lightbox - ESC key doesn't close the lightbox
+Keyboard - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Tooltips don't receive keyboard focus
+Keyboard - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Lightbox - focus is not moved immediately to lightbox
+Keyboard - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Lightbox - focus is not retained within the lightbox
+Keyboard - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Fake button is not keyboard accessible
+Frames - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - iframe title attribute does not describe the content or purpose of the iframe
+CSS - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Content is not readable and functional when text is increased
+CSS - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - visibility:hidden used to visually hide content when it should be available to screenreader
+CSS - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - display:none used to visually hide content when it should be available to screenreader
+CSS - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Page zoom - boxes that don't expand with the text
+HTML - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Article element used to mark-up an element that's not an article/blog post etc.
+HTML - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Object not embedded accessibly - wmode parameter not set to window
+HTML - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - Inline style adds colour
+HTML - Google: notfound WAVE: notfound SortSite: notfound ASLint: notfound - PRE element without CODE element inside it
+
+Total tests failed: 51
