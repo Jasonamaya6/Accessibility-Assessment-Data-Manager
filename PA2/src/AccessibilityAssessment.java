@@ -1,5 +1,5 @@
 /**
- * AccessibilityAssessment PA2.
+ * AccessibilityAssessment.
  * 
  * @author jasonamaya
  * @version Febuary 10, 2023.
