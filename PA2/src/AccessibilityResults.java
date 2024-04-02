@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * AccessibilityResults pa2.
+ * AccessibilityResults.
  * 
  * @author jasonamaya.
  * @version febuary 13th, 2023.
